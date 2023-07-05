@@ -1,4 +1,6 @@
 ﻿# mern_social_media_exercise1
+Thanks, **https://www.youtube.com/watch?v=K8YELRmUb5o**
+</br>
 <p>
   <img src="https://github.com/ANILSRGT/mern_social_media_exercise1/assets/49879524/701ae639-6c1e-4285-b611-878b0a613733" style="width:49%"/>
   <img src="https://github.com/ANILSRGT/mern_social_media_exercise1/assets/49879524/0b8f31cb-2e77-42ed-af55-87cb23c6d798" style="width:49%"/>
